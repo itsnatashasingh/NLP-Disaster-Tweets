@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+
+# Dataset files
+data/*.csv
+
+# Generated files
+submission.csv
+
+# OS files
+.DS_Store
+Thumbs.db

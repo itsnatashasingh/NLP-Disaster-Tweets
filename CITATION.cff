@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "NLP with Disaster Tweets"
+message: "If you use this project, please cite this repository."
+type: software
+
+authors:
+  - family-names: Singh
+    given-names: Natasha
+
+repository-code: "https://github.com/pixelrootsofty/NLP-Disaster-Tweets"
+
+abstract: >
+  A Natural Language Processing project for classifying disaster-related
+  tweets using TF-IDF feature extraction and traditional machine learning
+  classification algorithms.
+
+keywords:
+  - Natural Language Processing
+  - NLP
+  - Machine Learning
+  - Text Classification
+  - TF-IDF
+  - Disaster Tweets
+  - Scikit-learn
